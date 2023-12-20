@@ -1,2 +1,2 @@
-# Solutions to fix the code challenges
-provided by alx school
+fix the code challenges
+provided by alx school wih our Solutions
